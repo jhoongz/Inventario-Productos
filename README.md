@@ -73,6 +73,4 @@ Puedes volver al menú principal ingresando 0 en cualquier momento.
 - **Nombre:** Jonathan Antonio Gomez
 - **Curso:** Talento Tech - Programación con Python
 
-```
-Este proyecto fue creado como un ejercicio práctico para demostrar habilidades en Python, manejo de bases de datos y librerías complementarias. Si deseas realizar mejoras, no dudes en contactarme o realizar un pull request en el repositorio de GitHub.
-```
+**Este proyecto fue creado como un ejercicio práctico para demostrar habilidades en Python, manejo de bases de datos y librerías complementarias. Si deseas realizar mejoras, no dudes en contactarme o realizar un pull request en el repositorio de GitHub.**
