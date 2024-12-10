@@ -1,4 +1,4 @@
-# Sistema de Gestión de Productos
+<h1 align="center">Sistema de Gestión de Productos</h1>
 
 Este es el **Proyecto Final de Programación con Python** para Talento Tech. Se trata de un programa desarrollado en Python que permite gestionar un inventario de productos almacenados en una base de datos SQLite. El sistema incluye funcionalidades como registrar, consultar, actualizar, eliminar productos, generar reportes de bajo stock, y listar el inventario completo.
 
@@ -73,6 +73,4 @@ Puedes volver al menú principal ingresando 0 en cualquier momento.
 - **Nombre:** Jonathan Antonio Gomez
 - **Curso:** Talento Tech - Programación con Python
 
-```
-Este proyecto fue creado como un ejercicio práctico para demostrar habilidades en Python, manejo de bases de datos y librerías complementarias. Si deseas realizar mejoras, no dudes en contactarme o realizar un pull request en el repositorio de GitHub.
-```
+**Este proyecto fue creado como un ejercicio práctico para demostrar habilidades en Python, manejo de bases de datos y librerías complementarias. Si deseas realizar mejoras, no dudes en contactarme o realizar un pull request en el repositorio de GitHub.**
