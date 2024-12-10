@@ -69,9 +69,14 @@ def registrar_producto():
             (prod, cant, price, brand, peso_litros, unidad)
         )
         conexion.commit()
-        print("\nProducto registrado exitosamente.")
+        
+        # Obtener el ID del producto recién agregado
+        nuevo_id = cursor.lastrowid
+        print(f"\nProducto registrado exitosamente con ID: {nuevo_id}")
+        
     except sqlite3.IntegrityError:
         print("\nError: El nombre del producto ya existe. Intente con otro nombre.")
+        
     finally:
         conexion.close()
 
